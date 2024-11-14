@@ -1,7 +1,3 @@
-Here is the documentation for your `JobRunCommand` in a `README` format. This will help anyone who uses the command to understand how it works and how to use it effectively.
-
----
-
 # JobRunner Command
 
 This `artisan` command allows you to execute methods from jobs in your Laravel application. It enables you to run job methods in the background with optional parameters passed directly from the command line.
